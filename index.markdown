@@ -6,8 +6,8 @@ qualiaholic
 
 # ♡ ryan
 
-来てくれてありがとう
-Here's my only fixed address 
+来てくれてありがとう  
+Here's my only fixed address   
 i build things, study systems, and explore the intersection of technology and consciousness  
 always interested in working on cool projects : feel free to reach out!  
 
