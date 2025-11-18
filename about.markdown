@@ -4,15 +4,28 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# about
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+hi, i'm ryan.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+i build things, study systems, and explore the intersection of technology and consciousness.
 
+## what i'm working on
 
-[jekyll-organization]: https://github.com/jekyll
+- building something interesting
+- exploring ai/ml systems
+- studying philosophy and consciousness
+
+## backstory
+
+short origin story about how you got here, key milestones, or pivotal experiences that shaped you.
+
+## outside of work
+
+i like to stay active through lifting weights and being outside trying all types of different sports. i also enjoy video games. my current favorites are bf6, rocket league and counter strike.
+
+## connect
+
+* [github](https://github.com)
+* [email](mailto:{{ site.email }})
+* [back home](/)
