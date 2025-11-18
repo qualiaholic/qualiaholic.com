@@ -20,9 +20,9 @@ currently running around Tokyo
 **pure hate** : mass surveilance, kleptocracies, unnecessary complexity, and bad faith actors (weirdos)  
 
 * **take a look at**
-  * [my articles...](/posts) >
+  * [my articles...]({{ '/posts/' | relative_url }}) >
 * **my links**
   * [github](https://github.com)
-  * [hire me ♡](/about)
+  * [hire me ♡]({{ '/about/' | relative_url }})
 
 🏴‍☠️
