@@ -5,7 +5,7 @@ layout: home
 qualiaholic
 
 <div class="centered-image">
-  <img src="{{ '/assets/sphere8bff9c.jpeg' | relative_url }}" alt="sphere" />
+  <img src="{{ '/assets/sphere8bff9c.png' | relative_url }}" alt="sphere" />
 </div>
 
 # ♡ ryan
