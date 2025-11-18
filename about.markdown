@@ -1,31 +1,31 @@
 ---
 layout: page
-title: Me
+title: About
 permalink: /about/
 ---
 
-Use this space to greet your visitors and give them a quick sense of who you are.
-One or two sentences is perfect.
+# about
 
-## What I'm Working On
+hi, i'm ryan.
 
-- Project or role you're focused on right now
-- Another initiative or passion project worth highlighting
-- Anything upcoming that excites you
+i build things, study systems, and explore the intersection of technology and consciousness.
 
-## Backstory
+## what i'm working on
 
-Share a short origin story—how you got here, key milestones, or pivotal
-experiences that shaped you.
+- building something interesting
+- exploring ai/ml systems
+- studying philosophy and consciousness
 
-## Outside of Work
-I like to stay active through lifting weights and being outside trying all types of different sports. I also enjoy video games. My current favorites are BF6, Rocket League and Counter Strike. 
+## backstory
 
+short origin story about how you got here, key milestones, or pivotal experiences that shaped you.
 
-## Connect
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## outside of work
 
+i like to stay active through lifting weights and being outside trying all types of different sports. i also enjoy video games. my current favorites are bf6, rocket league and counter strike.
 
-[jekyll-organization]: https://github.com/jekyll
+## connect
+
+* [github](https://github.com)
+* [email](mailto:{{ site.email }})
+* [back home](/)
