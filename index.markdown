@@ -4,6 +4,10 @@ layout: home
 
 qualiaholic
 
+<div class="centered-image">
+  <img src="{{ '/assets/sphere8bff9c.jpeg' | relative_url }}" alt="sphere" />
+</div>
+
 # ♡ ryan
 
 来てくれてありがとう  

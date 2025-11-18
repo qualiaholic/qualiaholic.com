@@ -127,6 +127,18 @@ pre code {
     border-top: 1px solid rgba(82, 255, 168, 0.2);
 }
 
+.centered-image {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.centered-image img {
+    max-width: 240px;
+    width: 50%;
+    min-width: 160px;
+    height: auto;
+}
+
 /* Responsive */
 @media (max-width: 600px) {
     body {
