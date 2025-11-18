@@ -13,11 +13,11 @@ always interested in working on cool projects : feel free to reach out!
 
 currently running around Tokyo 
 
-️ ☣  [Music I like](https://open.spotify.com) ️ ☣  
+️ ☣  [Music I like](https://open.spotify.com/user/snozberry321?si=3114815ddb0f4aa2) ️ ☣  
 
-**interests** : ai/ml, systems design, philosophy, consciousness, music, arts, poetry, books, hiking, experiencing, learning...  
+**interests** : security, ai/ml, systems design, neuroscience, privacy, consciousness, music, health and wellness  
 
-**pure hate** : subscription culture, 2-factor authentication, unnecessary complexity, and bad UX  
+**pure hate** : mass surveilance, kleptocracies, unnecessary complexity, and bad faith actors (weirdos)  
 
 * **take a look at**
   * [my articles...](/posts) >
