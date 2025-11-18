@@ -6,13 +6,14 @@ qualiaholic
 
 # ♡ ryan
 
-Here's my only fixed address  
+来てくれてありがとう
+Here's my only fixed address 
 i build things, study systems, and explore the intersection of technology and consciousness  
 always interested in working on cool projects : feel free to reach out!  
 
-\> currently building something interesting  
+currently running around Tokyo 
 
-️ ☣  [listen to my playlists](https://open.spotify.com) ️ ☣  
+️ ☣  [Music I like](https://open.spotify.com) ️ ☣  
 
 **interests** : ai/ml, systems design, philosophy, consciousness, music, arts, poetry, books, hiking, experiencing, learning...  
 
